@@ -66,8 +66,9 @@ h2{
 
 a{
 	text-decoration: none;
-	color: rgba(190, 0, 247, 0.74);
+	color: rgb(99, 0, 247);
 	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: bolder;
 }
 
 .small{
@@ -101,6 +102,7 @@ a{
 	font-weight: lighter;
 	margin-left: 2em;
 	margin-bottom: 0.5em;
+	margin-top: 0.5em;
 	font-size: 0.9rem;
 	list-style-type: disc;
 }
